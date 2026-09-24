@@ -1,0 +1,1 @@
+# Nothing extra: FastAPI and Pydantic ship with Airflow 3.1.
